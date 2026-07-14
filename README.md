@@ -55,7 +55,8 @@ Currently going deep on **RAG pipelines, agentic workflows, and evaluation of LL
 | Project | What it does | Stack |
 |---|---|---|
 | 🔎 **[RAG Chat-with-your-Docs](https://github.com/santkumar333/rag-chat-with-docs)** | Upload PDFs and ask questions in natural language — answers with source citations, powered by a full RAG pipeline. | LangChain · FAISS · Claude API · Streamlit |
-| _add your next build here_ | e.g. an AI agent, an LLM eval harness, or a fine-tuning experiment | |
+| 🤖 **[LLM Agent Assistant](https://github.com/santkumar333/llm-agent-assistant)** | A tool-calling AI agent that decides when to use a calculator, the clock, or Wikipedia — then answers. CLI + REST API, with tests & Docker. | Claude API · FastAPI · pytest · Docker |
+| _add your next build here_ | e.g. an LLM eval harness, a fine-tuning experiment, or a production RAG service | |
 
 > 🎯 Goal: ship one solid GenAI project a month and pin the best four above.
 
